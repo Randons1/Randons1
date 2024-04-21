@@ -21,6 +21,9 @@
 Apaixonado por tecnologia com o sonho de trabalhar nessa área.
 
 ## Email Para Contato:
-Pegasusvh@gmail.com
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+)](mailto:pegasusvh@gmail.com)
+
+
 
 
