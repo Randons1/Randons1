@@ -26,6 +26,7 @@ Apaixonado por tecnologia com o sonho de trabalhar nessa área.
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:pegasusvh@gmail.com)
 
-
+            
+![snake animation](https://github.com/Randons1/Randons1/blob/output/github-contribution-grid-snake2.svg)
 
 
