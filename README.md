@@ -16,6 +16,8 @@
 <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white ">
 <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
 >
+<img align="right" alt="kid-boo" src="https://github.com/Randons1/Randons1/assets/167344807/4329b7c3-d56f-443a-91a1-f5df28480ce1" width="100px">
+ 
 </div> <br>
 
 Apaixonado por tecnologia com o sonho de trabalhar nessa área.
