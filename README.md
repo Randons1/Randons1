@@ -7,6 +7,9 @@
 
 ![Randons1 GitHub stats](https://github-readme-stats.vercel.app/api?username=Randons1&show_icons=true&theme=radical)
 
+<!-- Usar quando eu tiver portifólio
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Randons1&langs_count=8) !-->
+
 ## Tecnologias que eu uso no meu dia a dia
 
 <div style="display: inline_block"> <br>
