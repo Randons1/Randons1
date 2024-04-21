@@ -27,6 +27,6 @@ Apaixonado por tecnologia com o sonho de trabalhar nessa área.
 )](mailto:pegasusvh@gmail.com)
 
             
-![snake animation](https://github.com/Randons1/Randons1/blob/output/github-contribution-grid-snake2.svg)
+
 
 
