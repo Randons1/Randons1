@@ -5,8 +5,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitor.mb_/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-braga-8a626a2bb/)
 
-![Randons1 GitHub stats](https://github-readme-stats.vercel.app/api?username=Randons1&show_icons=true&theme=radical)
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Randons1&layout=compact&langs_count=7&theme=dracula"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Randons1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Randons1&layout=compact&langs_count=7&theme=dracula"/>
 
 
 ## Tecnologias que eu uso no meu dia a dia
